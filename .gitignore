@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs
+/packages
+/stir-friday/bin
+/stir-friday/obj/Debug
+/stir-friday/Properties
+*.config
+*.user
